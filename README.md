@@ -1,2 +1,0 @@
-# PetEtec
-Pet shop
